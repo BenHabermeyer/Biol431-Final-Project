@@ -1,0 +1,12 @@
+Region,Label,Regulation,TAL1, ZNF483, SMAD3, SRF, GTF2F1, TAF1, SMAD4,NR5A2,SMAD2,E2F6,CTCF,MAX,JUN,RFX5,TEAD4,SP2,SIX5,YY1,POU5F1,SOX2,SMC1A,FOXP1,FOXH1,REST,OTX2,GATA4,SP1,NANOG,JUND,ATF3,TRIM28,CEBPB
+chr2:186846152-186854172,ZSWIM2,Promoter,yes,yes,yes,yes,yes,yes,yes,,,,,,,,,,,,,,,,,,,,,,,,,
+chr7:101059257-101080334,E7-1,Enhancer,,,,yes,,,,,,,yes,,yes,yes,yes,,,,,,,,,,,yes,,,,,,
+chr7:101218044-101218857,E7-2,Enhancer,,,,,,,,,,,,,,,,yes,yes,yes,,,,,,,,,,,,,,
+chr14:23326999-23328981,E14-1,Enhancer,,,,yes,,,,,,,,,,,,,,,yes,yes,yes,,,,,,,,,,,
+chr14:23377635-23382458,E14-2,Enhancer,,,,,,,,,,,yes,,,,,,,,yes,,yes,,,,,,,,,,,
+chr14:23435539-23436924,E14-3,Enhancer,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,,,
+chr14:23440020-23444181,E14-4,Enhancer,,,yes,,,,,,,,,,,,,,,yes,,,,yes,,,yes,yes,yes,yes,yes,yes,,
+chr14:23450335-23452196,E14-5,Enhancer,,,,,,,,,,yes,yes,,,,yes,,,yes,,,,,yes,,yes,yes,,yes,yes,yes,yes,yes
+chr2:187467461-187468552,E2,Enhancer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes
+chr7:100888404-100902940,ACHE,Promoter,,,yes,,,,,yes,yes,,,,,,,,,,,,,,,,,,,,,,,
+chr14:23388605-23392917,MYH6,Promoter,,,,,,,,,,yes,yes,yes,,,,,,,,,,,,,,,,,,,,
